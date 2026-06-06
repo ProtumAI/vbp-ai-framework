@@ -99,4 +99,5 @@ Review your automated billing logs during monthly vendor syncs. Deduct flagged h
 
 ## Public Distribution & License (MIT)
 
-The VBP-AI Procurement Framework is released under the **MIT Open Source License**. Any enterprise, procurement group, or technology consortium is permitted to copy, modify, merge, and distribute these templates without restriction. The goal is simple: collectively raising the bar for AI quality by forcing vendors to stand financially behind the performance of their models.
+The VBP-AI Procurement Framework is released under the **MIT Open Source License**. It is conceived and incepted by Mr. Sandeep Joshi at Protum.ai. Any enterprise, procurement group, or technology consortium is permitted to copy, modify, merge, and distribute these templates without restriction. The goal is simple: collectively raising the bar for AI quality by forcing vendors to stand financially behind the performance of their models.
+
